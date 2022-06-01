@@ -1,0 +1,6 @@
+Навыки:
+Git Bash
+Git Hub
+VC
+JC
+Bug Report

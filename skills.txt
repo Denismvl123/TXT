@@ -4,5 +4,3 @@ Git Hub
 VC
 JC
 Bug Report
-
-1
